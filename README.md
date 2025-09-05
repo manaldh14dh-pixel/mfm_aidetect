@@ -16,6 +16,6 @@ The goal is to detect whether Arabic research abstracts are written by humans or
 - **Content:** Arabic abstracts labeled as *human-written* or *AI-generated*. 
 
 ## Tools
-Python 3.8 
+- Python 3.8 
 - Jupyter Notebook 
 - Libraries: datasets, pandas, numpy, matplotlib, camel-tools (for late
