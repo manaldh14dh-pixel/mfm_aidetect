@@ -14,6 +14,5 @@ The goal is to detect whether Arabic research abstracts are written by humans or
 ## Tools
 - Python 3.8
 - visual code
-- colab pro pluse
+- colab pro plus
 - Jupyter Notebook 
-- Libraries: datasets, pandas, numpy, matplotlib, Ipython.disply 
