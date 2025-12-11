@@ -1,0 +1,8 @@
+Validation Set Performance Metrics
+==================================
+
+               Accuracy  F1-Score (AI)
+Model                                 
+SVM            0.960903       0.975735
+Random Forest  0.982359       0.988937
+BERT           0.993802       0.996117
